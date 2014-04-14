@@ -141,6 +141,7 @@ Supported memcached clients:
 Supported Redis clients:
 
 * [redis](https://github.com/ezmobius/redis-rb)
+* [redis-store](https://github.com/redis-store/redis-store) or [redis-rails](https://github.com/redis-store/redis-rails)
 
 ## How you might use it
 
